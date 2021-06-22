@@ -38,7 +38,7 @@ header('Expires: '.gmdate('D, d M Y H:i:s \G\M\T', time() + 3600));
   </head>
 
   <body>
-    <script src="http://ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
     <script src="bootstrap/js/bootstrap.min.js"></script>
     <script src="js/jcanvas.min.js" defer></script>
     <script src="js/underscore-min.js"></script>
